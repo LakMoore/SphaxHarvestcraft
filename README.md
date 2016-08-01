@@ -10,3 +10,5 @@ https://docs.google.com/a/equipmyschool.com/spreadsheets/d/1r1ruZMhji-1tD_N0zUwx
 If you find a problem with any images or scripts please open an issue.
 
 If you can improve any of the four scripts please edit the file and make a pull request.
+
+The images folder contains too many files for GitHub to display but the "find" feature works very nicely.
